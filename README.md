@@ -1,0 +1,1 @@
+(mariasql bug)[https://github.com/mscdex/node-mariasql/issues/48]

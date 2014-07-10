@@ -1,0 +1,30 @@
+{
+  "name": "gaiajs-driver-sequelize",
+  "version": "0.0.0",
+  "description": "sequelize driver for gaiajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaiajs/gaia-driver-sequelize"
+  },
+  "keywords": [
+    "gaiajs",
+    "sequelize",
+    "mysql",
+    "mariadb",
+    "pg",
+    "sqlite"
+  ],
+  "author": "David Touzet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaiajs/gaia-driver-sequelize/issues"
+  },
+  "homepage": "https://github.com/gaiajs/gaia-driver-sequelize",
+  "dependencies": {
+    "sequelize": "^1.7.9"
+  }
+}
